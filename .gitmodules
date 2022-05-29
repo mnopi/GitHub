@@ -221,3 +221,15 @@
 	path = apt-dater
 	url = https://github.com/DE-IBH/apt-dater
 	branch = master
+[submodule "nx/nx-plugins.git"]
+	path = nx/nx-plugins.git
+	url = https://github.com/flowaccount/nx-plugins.git
+[submodule "cloudflare/proxies-on-cloudflare.git"]
+	path = cloudflare/proxies-on-cloudflare.git
+	url = https://github.com/GitbookIO/proxies-on-cloudflare.git
+[submodule "cloudflare/worker-typescript-template.git"]
+	path = cloudflare/worker-typescript-template.git
+	url = https://github.com/cloudflare/worker-typescript-template.git
+[submodule "serverless/examples.git"]
+	path = serverless/examples.git
+	url = https://github.com/serverless/examples.git

@@ -1,0 +1,93 @@
+#!/bin/sh
+f() { git submodule add "$@"; }
+
+for i in https://github.com/asdf-vm/asdf \
+https://github.com/asdf-vm/asdf-plugin-template \
+https://github.com/rcaloras/bashhub-client \
+https://github.com/flyingcircusio/batou \
+https://github.com/watchexec/cargo-watch \
+https://github.com/msanders/cider \
+https://github.com/jwodder/daemail \
+https://github.com/docopt/docopt \
+https://github.com/ttscoff/doing \
+https://github.com/deadc0de6/dotdrop \
+https://github.com/wfxr/forgit \
+https://github.com/wtetsu/gaze \
+https://github.com/dpb587/gget \
+https://github.com/jwodder/ghrepo \
+https://github.com/jwodder/ghutil \
+https://github.com/nickolasburr/git-extend \
+https://github.com/tkrajina/git-plus \
+https://gerrit.googlesource.com/git-repo \
+https://github.com/earwig/git-repo-updater \
+https://github.com/seveas/git-spindle \
+https://github.com/nosarthur/gita \
+https://github.com/Mte90/gitapper \
+https://github.com/isacikgoz/gitbatch \
+https://github.com/skx/github2mr \
+https://github.com/GitTools/GitVersion \
+https://github.com/kdabir/has \
+https://github.com/jwodder/inplace \
+https://github.com/jwodder/iterpath \
+https://github.com/casey/just \
+https://github.com/jwodder/lineinfile \
+https://github.com/jwodder/linesep \
+https://github.com/cortesi/modd \
+https://github.com/jwodder/morecontext \
+https://github.com/johnramsden/mr \
+https://github.com/nvaccess/mrconfig \
+https://github.com/tiiiecherle/osx_install_config \
+https://github.com/jnoortheen/pipm \
+https://github.com/PrefectHQ/prefect \
+https://github.com/zcutlip/prefsniff \
+https://github.com/jwodder/PyGithub \
+https://github.com/henriquebastos/python-decouple \
+https://github.com/jwodder/pyversion-info \
+https://github.com/jwodder/qypi \
+https://github.com/thoughtbot/rcm \
+https://github.com/cespare/reflex \
+https://android.googlesource.com/tools/repo \
+https://github.com/benbenbang/req2toml \
+https://bitbucket.org/vinay.sajip/sarge \
+https://github.com/fsaintjacques/semver-tool \
+https://github.com/alichtman/shallow-backup \
+https://github.com/r-darwish/topgrade \
+https://github.com/sharkdp/vivid \
+https://github.com/watchexec/watchexec \
+https://github.com/kzys/wfh \
+https://github.com/zero-sh/zero.sh \
+https://github.com/tj/git-extras \
+https://github.com/fastai/ghapi.git \
+https://github.com/DE-IBH/apt-dater; do
+ f "${i}"
+done
+
+
+for i in https://github.com/denoland/deno_docker \
+https://github.com/denoland/deno \
+https://github.com/denoland/deploy_examples \
+https://github.com/denoland/dotland \
+https://github.com/skymethod/denoflare \
+https://github.com/denoland/deno_std \
+https://github.com/denoland/manual \
+https://github.com/denoland/denobyexample \
+https://github.com/denoland/deployctl \
+https://github.com/denoland/examples \
+https://github.com/denoland/deno_task_shell \
+https://github.com/denoland/automation; do
+ f "$i" deno/"${i##*/}"
+done
+
+for i in https://github.com/flowaccount/nx-plugins.git; do
+ f "$i" nx/"${i##*/}"
+done
+
+for i in https://github.com/GitbookIO/proxies-on-cloudflare.git \
+  https://github.com/cloudflare/worker-typescript-template.git; do
+ f "$i" cloudflare/"${i##*/}"
+done
+
+for i in https://github.com/serverless/examples.git; do
+ f "$i" "serverless/${i##*/}"
+done
+
