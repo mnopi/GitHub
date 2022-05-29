@@ -1,0 +1,8 @@
+#!/bin/sh
+git config --local diff.submodule log
+git config --local push.recurseSubmodules on-demand
+git config --local status.submoduleSummary 1
+git config --local submodule.recurse true
+git submodule --quiet update --init --recursive
+git submodule foreach -q --recursive \
+    'git fetch -q && git checkout -q $(git config -f $toplevel/.gitmodules submodule.$name.branch|| basename "$(git rev-parse --abbrev-ref origin/HEAD)") --'
