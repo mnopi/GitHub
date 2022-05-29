@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloudflare/proxies-on-cloudflare" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloudflare/worker-typescript-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno/test_util/std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno/test_util/std/wasi/testdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno/test_util/std/wasi/testdata/fixtures/symlink_to_parent_directory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno/test_util/wpt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno/third_party" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno_docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno_std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno_std/wasi/testdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno_std/wasi/testdata/fixtures/symlink_to_parent_directory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deno_task_shell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/denobyexample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/denoflare" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deploy_examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/deployctl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/dotland" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deno/manual" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ghapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-extras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nx/nx-plugins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/serverless/examples" vcs="Git" />
+  </component>
+</project>

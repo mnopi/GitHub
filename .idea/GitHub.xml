@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/a-file-icon-idea" />
+      <excludeFolder url="file://$MODULE_DIR$/apt-dater" />
+      <excludeFolder url="file://$MODULE_DIR$/authpass" />
+      <excludeFolder url="file://$MODULE_DIR$/bash-it" />
+      <excludeFolder url="file://$MODULE_DIR$/batou" />
+      <excludeFolder url="file://$MODULE_DIR$/bats-core" />
+      <excludeFolder url="file://$MODULE_DIR$/cider" />
+      <excludeFolder url="file://$MODULE_DIR$/cpython" />
+      <excludeFolder url="file://$MODULE_DIR$/critic.sh" />
+      <excludeFolder url="file://$MODULE_DIR$/dotdrop" />
+      <excludeFolder url="file://$MODULE_DIR$/dotfiles" />
+      <excludeFolder url="file://$MODULE_DIR$/has" />
+      <excludeFolder url="file://$MODULE_DIR$/iCloudDownloader" />
+      <excludeFolder url="file://$MODULE_DIR$/Keychain-Dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/keychain-swift" />
+      <excludeFolder url="file://$MODULE_DIR$/KeychainAccess" />
+      <excludeFolder url="file://$MODULE_DIR$/namespaced-libraries-monorepo" />
+      <excludeFolder url="file://$MODULE_DIR$/ppsetuptools" />
+      <excludeFolder url="file://$MODULE_DIR$/prefect" />
+      <excludeFolder url="file://$MODULE_DIR$/prefsniff" />
+      <excludeFolder url="file://$MODULE_DIR$/pyproject-toml" />
+      <excludeFolder url="file://$MODULE_DIR$/python-decouple" />
+      <excludeFolder url="file://$MODULE_DIR$/python-release-plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/rcm" />
+      <excludeFolder url="file://$MODULE_DIR$/req2toml" />
+      <excludeFolder url="file://$MODULE_DIR$/sample-namespace-packages" />
+      <excludeFolder url="file://$MODULE_DIR$/sarge" />
+      <excludeFolder url="file://$MODULE_DIR$/Save-To-iCloud-Drive" />
+      <excludeFolder url="file://$MODULE_DIR$/setuptools_scm" />
+      <excludeFolder url="file://$MODULE_DIR$/shallow-backup" />
+      <excludeFolder url="file://$MODULE_DIR$/Strongbox" />
+      <excludeFolder url="file://$MODULE_DIR$/task" />
+      <excludeFolder url="file://$MODULE_DIR$/taskipy" />
+      <excludeFolder url="file://$MODULE_DIR$/UICKeyChainStore" />
+      <excludeFolder url="file://$MODULE_DIR$/zero.sh" />
+      <excludeFolder url="file://$MODULE_DIR$/starship" />
+      <excludeFolder url="file://$MODULE_DIR$/osx_install_config" />
+      <excludeFolder url="file://$MODULE_DIR$/dotfiles.atomantic" />
+      <excludeFolder url="file://$MODULE_DIR$/dotfiles.cider" />
+      <excludeFolder url="file://$MODULE_DIR$/getoptions" />
+      <excludeFolder url="file://$MODULE_DIR$/dotbot" />
+      <excludeFolder url="file://$MODULE_DIR$/iconGenerator" />
+      <excludeFolder url="file://$MODULE_DIR$/linguist" />
+      <excludeFolder url="file://$MODULE_DIR$/git-extend" />
+      <excludeFolder url="file://$MODULE_DIR$/gget" />
+      <excludeFolder url="file://$MODULE_DIR$/gitapper" />
+      <excludeFolder url="file://$MODULE_DIR$/forgit" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="GOOGLE" />
+    <option name="myDocStringFormat" value="Google" />
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+  <component name="ReSTService">
+    <option name="DOC_DIR" value="/tmp" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>

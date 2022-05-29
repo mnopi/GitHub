@@ -1,0 +1,223 @@
+[submodule "asdf"]
+	path = asdf
+	url = https://github.com/asdf-vm/asdf
+[submodule "asdf-plugin-template"]
+	path = asdf-plugin-template
+	url = https://github.com/asdf-vm/asdf-plugin-template
+[submodule "bashhub-client"]
+	path = bashhub-client
+	url = https://github.com/rcaloras/bashhub-client
+[submodule "batou"]
+	path = batou
+	url = https://github.com/flyingcircusio/batou
+[submodule "cargo-watch"]
+	path = cargo-watch
+	url = https://github.com/watchexec/cargo-watch
+[submodule "cider"]
+	path = cider
+	url = https://github.com/msanders/cider
+[submodule "daemail"]
+	path = daemail
+	url = https://github.com/jwodder/daemail
+[submodule "docopt"]
+	path = docopt
+	url = https://github.com/docopt/docopt
+[submodule "doing"]
+	path = doing
+	url = https://github.com/ttscoff/doing
+[submodule "dotdrop"]
+	path = dotdrop
+	url = https://github.com/deadc0de6/dotdrop
+[submodule "forgit"]
+	path = forgit
+	url = https://github.com/wfxr/forgit
+[submodule "gaze"]
+	path = gaze
+	url = https://github.com/wtetsu/gaze
+[submodule "gget"]
+	path = gget
+	url = https://github.com/dpb587/gget
+[submodule "ghrepo"]
+	path = ghrepo
+	url = https://github.com/jwodder/ghrepo
+[submodule "ghutil"]
+	path = ghutil
+	url = https://github.com/jwodder/ghutil
+[submodule "git-extend"]
+	path = git-extend
+	url = https://github.com/nickolasburr/git-extend
+[submodule "git-plus"]
+	path = git-plus
+	url = https://github.com/tkrajina/git-plus
+[submodule "git-repo"]
+	path = git-repo
+	url = https://gerrit.googlesource.com/git-repo
+[submodule "git-repo-updater"]
+	path = git-repo-updater
+	url = https://github.com/earwig/git-repo-updater
+[submodule "git-spindle"]
+	path = git-spindle
+	url = https://github.com/seveas/git-spindle
+[submodule "gita"]
+	path = gita
+	url = https://github.com/nosarthur/gita
+[submodule "gitapper"]
+	path = gitapper
+	url = https://github.com/Mte90/gitapper
+[submodule "gitbatch"]
+	path = gitbatch
+	url = https://github.com/isacikgoz/gitbatch
+[submodule "github2mr"]
+	path = github2mr
+	url = https://github.com/skx/github2mr
+[submodule "GitVersion"]
+	path = GitVersion
+	url = https://github.com/GitTools/GitVersion
+[submodule "has"]
+	path = has
+	url = https://github.com/kdabir/has
+[submodule "inplace"]
+	path = inplace
+	url = https://github.com/jwodder/inplace
+[submodule "iterpath"]
+	path = iterpath
+	url = https://github.com/jwodder/iterpath
+[submodule "just"]
+	path = just
+	url = https://github.com/casey/just
+[submodule "lineinfile"]
+	path = lineinfile
+	url = https://github.com/jwodder/lineinfile
+[submodule "linesep"]
+	path = linesep
+	url = https://github.com/jwodder/linesep
+[submodule "modd"]
+	path = modd
+	url = https://github.com/cortesi/modd
+[submodule "morecontext"]
+	path = morecontext
+	url = https://github.com/jwodder/morecontext
+[submodule "mr"]
+	path = mr
+	url = https://github.com/johnramsden/mr
+[submodule "mrconfig"]
+	path = mrconfig
+	url = https://github.com/nvaccess/mrconfig
+[submodule "osx_install_config"]
+	path = osx_install_config
+	url = https://github.com/tiiiecherle/osx_install_config
+[submodule "pipm"]
+	path = pipm
+	url = https://github.com/jnoortheen/pipm
+[submodule "prefect"]
+	path = prefect
+	url = https://github.com/PrefectHQ/prefect
+[submodule "prefsniff"]
+	path = prefsniff
+	url = https://github.com/zcutlip/prefsniff
+[submodule "PyGithub"]
+	path = PyGithub
+	url = https://github.com/jwodder/PyGithub
+[submodule "python-decouple"]
+	path = python-decouple
+	url = https://github.com/henriquebastos/python-decouple
+[submodule "pyversion-info"]
+	path = pyversion-info
+	url = https://github.com/jwodder/pyversion-info
+[submodule "qypi"]
+	path = qypi
+	url = https://github.com/jwodder/qypi
+[submodule "rcm"]
+	path = rcm
+	url = https://github.com/thoughtbot/rcm
+[submodule "reflex"]
+	path = reflex
+	url = https://github.com/cespare/reflex
+[submodule "repo"]
+	path = repo
+	url = https://android.googlesource.com/tools/repo
+[submodule "req2toml"]
+	path = req2toml
+	url = https://github.com/benbenbang/req2toml
+[submodule "sarge"]
+	path = sarge
+	url = https://bitbucket.org/vinay.sajip/sarge
+[submodule "semver-tool"]
+	path = semver-tool
+	url = https://github.com/fsaintjacques/semver-tool
+[submodule "shallow-backup"]
+	path = shallow-backup
+	url = https://github.com/alichtman/shallow-backup
+[submodule "topgrade"]
+	path = topgrade
+	url = https://github.com/r-darwish/topgrade
+[submodule "vivid"]
+	path = vivid
+	url = https://github.com/sharkdp/vivid
+[submodule "watchexec"]
+	path = watchexec
+	url = https://github.com/watchexec/watchexec
+[submodule "wfh"]
+	path = wfh
+	url = https://github.com/kzys/wfh
+[submodule "zero.sh"]
+	path = zero.sh
+	url = https://github.com/zero-sh/zero.sh
+[submodule "git-extras"]
+	path = git-extras
+	url = https://github.com/tj/git-extras
+[submodule "deno/deno_docker"]
+	path = deno/deno_docker
+	url = https://github.com/denoland/deno_docker
+[submodule "deno/deno"]
+	path = deno/deno
+	url = https://github.com/denoland/deno
+[submodule "deno/deploy_examples"]
+	path = deno/deploy_examples
+	url = https://github.com/denoland/deploy_examples
+[submodule "deno/dotland"]
+	path = deno/dotland
+	url = https://github.com/denoland/dotland
+[submodule "deno/denoflare"]
+	path = deno/denoflare
+	url = https://github.com/skymethod/denoflare
+[submodule "deno/deno_std"]
+	path = deno/deno_std
+	url = https://github.com/denoland/deno_std
+[submodule "deno/manual"]
+	path = deno/manual
+	url = https://github.com/denoland/manual
+[submodule "deno/denobyexample"]
+	path = deno/denobyexample
+	url = https://github.com/denoland/denobyexample
+[submodule "deno/deployctl"]
+	path = deno/deployctl
+	url = https://github.com/denoland/deployctl
+[submodule "deno/examples"]
+	path = deno/examples
+	url = https://github.com/denoland/examples
+[submodule "deno/deno_task_shell"]
+	path = deno/deno_task_shell
+	url = https://github.com/denoland/deno_task_shell
+[submodule "deno/automation"]
+	path = deno/automation
+	url = https://github.com/denoland/automation
+[submodule "nx/nx-plugins"]
+	path = nx/nx-plugins
+	url = https://github.com/flowaccount/nx-plugins.git
+[submodule "cloudflare/proxies-on-cloudflare"]
+	path = cloudflare/proxies-on-cloudflare
+	url = https://github.com/GitbookIO/proxies-on-cloudflare.git
+[submodule "cloudflare/worker-typescript-template"]
+	path = cloudflare/worker-typescript-template
+	url = https://github.com/cloudflare/worker-typescript-template.git
+[submodule "serverless/examples"]
+	path = serverless/examples
+	url = https://github.com/serverless/examples.git
+[submodule "ghapi"]
+	path = ghapi
+	url = https://github.com/fastai/ghapi.git
+[submodule "apt-dater"]
+	path = apt-dater
+	url = https://github.com/DE-IBH/apt-dater
+	branch = master
