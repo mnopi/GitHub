@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cloudflare/proxies-on-cloudflare" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/cloudflare/worker-typescript-template" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asdf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asdf-plugin-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bashhub-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/batou" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cargo-watch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloudflare/proxies-on-cloudflare.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloudflare/worker-typescript-template.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/daemail" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/deno/automation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/deno/deno" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/deno/deno/test_util/std" vcs="Git" />
@@ -23,9 +30,60 @@
     <mapping directory="$PROJECT_DIR$/deno/dotland" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/deno/examples" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/deno/manual" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docopt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dotdrop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forgit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gaze" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gget" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ghapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ghrepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ghutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-extend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git-extras" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/nx/nx-plugins" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/serverless/examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-plus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-repo-updater" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-spindle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gita" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitbatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github2mr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitVersion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/has" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inplace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iterpath" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/just" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lineinfile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linesep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/morecontext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mrconfig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nx/nx-plugins.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/osx_install_config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pipm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prefect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prefsniff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyGithub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-decouple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyversion-info" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qypi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rcm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reflex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/req2toml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sarge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/semver-tool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/serverless/examples.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shallow-backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/topgrade" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vivid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/watchexec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wfh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zero.sh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-extras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ghapi.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apt-dater" vcs="Git" />
   </component>
 </project>
