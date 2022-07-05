@@ -233,3 +233,11 @@
 [submodule "serverless/examples.git"]
 	path = serverless/examples.git
 	url = https://github.com/serverless/examples.git
+[submodule "cleanmymac"]
+	path = cleanmymac
+	url = https://github.com/thelamehacker/cleanmymac.git
+	branch = master
+[submodule "upclean"]
+	path = upclean
+	url = https://github.com/divspace/upclean
+	branch = master

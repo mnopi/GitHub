@@ -8,6 +8,7 @@
     <mapping directory="$PROJECT_DIR$/batou" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cargo-watch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cleanmymac" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cloudflare/proxies-on-cloudflare.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cloudflare/worker-typescript-template.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/daemail" vcs="Git" />
@@ -78,6 +79,7 @@
     <mapping directory="$PROJECT_DIR$/serverless/examples.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shallow-backup" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/topgrade" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/upclean" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vivid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/watchexec" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wfh" vcs="Git" />
