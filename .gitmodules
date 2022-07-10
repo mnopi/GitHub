@@ -241,3 +241,7 @@
 	path = upclean
 	url = https://github.com/divspace/upclean
 	branch = master
+[submodule "fzf-scripts"]
+	path = fzf-scripts
+	url = https://github.com/DanielFGray/fzf-scripts.git
+	branch = master
