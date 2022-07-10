@@ -35,6 +35,7 @@
     <mapping directory="$PROJECT_DIR$/doing" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dotdrop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/forgit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fzf-scripts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gaze" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gget" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ghapi" vcs="Git" />
