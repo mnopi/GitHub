@@ -208,9 +208,6 @@
 [submodule "cloudflare/worker-typescript-template"]
 	path = cloudflare/worker-typescript-template
 	url = https://github.com/cloudflare/worker-typescript-template.git
-[submodule "serverless/examples"]
-	path = serverless/examples
-	url = https://github.com/serverless/examples.git
 [submodule "ghapi"]
 	path = ghapi
 	url = https://github.com/fastai/ghapi.git
