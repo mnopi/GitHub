@@ -202,9 +202,6 @@
 [submodule "deno/automation"]
 	path = deno/automation
 	url = https://github.com/denoland/automation
-[submodule "nx/nx-plugins"]
-	path = nx/nx-plugins
-	url = https://github.com/flowaccount/nx-plugins.git
 [submodule "cloudflare/proxies-on-cloudflare"]
 	path = cloudflare/proxies-on-cloudflare
 	url = https://github.com/GitbookIO/proxies-on-cloudflare.git
@@ -221,9 +218,6 @@
 	path = apt-dater
 	url = https://github.com/DE-IBH/apt-dater
 	branch = master
-[submodule "nx/nx-plugins.git"]
-	path = nx/nx-plugins.git
-	url = https://github.com/flowaccount/nx-plugins.git
 [submodule "cloudflare/proxies-on-cloudflare.git"]
 	path = cloudflare/proxies-on-cloudflare.git
 	url = https://github.com/GitbookIO/proxies-on-cloudflare.git
