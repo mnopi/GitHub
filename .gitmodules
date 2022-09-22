@@ -236,3 +236,6 @@
 	path = fzf-scripts
 	url = https://github.com/DanielFGray/fzf-scripts.git
 	branch = master
+[submodule "serverless/examples"]
+	path = serverless/examples
+	url = https://github.com/serverless/examples.git
