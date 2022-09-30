@@ -239,3 +239,9 @@
 [submodule "serverless/examples"]
 	path = serverless/examples
 	url = https://github.com/serverless/examples.git
+[submodule "sphinx"]
+	path = sphinx
+	url = https://github.com/sphinx-doc/sphinx
+	branch = 5.x
+	fetchRecurseSubmodules = true
+	update = merge
