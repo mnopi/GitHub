@@ -65,6 +65,10 @@
       <excludeFolder url="file://$MODULE_DIR$/cloudflare" />
       <excludeFolder url="file://$MODULE_DIR$/nx" />
       <excludeFolder url="file://$MODULE_DIR$/serverless" />
+      <excludeFolder url="file://$MODULE_DIR$/sphinx" />
+      <excludeFolder url="file://$MODULE_DIR$/upclean" />
+      <excludeFolder url="file://$MODULE_DIR$/fzf-scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/cleanmymac" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

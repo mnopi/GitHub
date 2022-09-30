@@ -245,3 +245,9 @@
 	branch = 5.x
 	fetchRecurseSubmodules = true
 	update = merge
+[submodule "SimpleBLE"]
+	path = SimpleBLE
+	url = https://github.com/OpenBluetoothToolbox/SimpleBLE
+	branch = main
+	fetchRecurseSubmodules = true
+	update = merge

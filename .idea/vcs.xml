@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitVersion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PyGithub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apt-dater" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/asdf" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/asdf-plugin-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bashhub-client" vcs="Git" />
@@ -39,6 +42,7 @@
     <mapping directory="$PROJECT_DIR$/gaze" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gget" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ghapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ghapi.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ghrepo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ghutil" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/git-extend" vcs="Git" />
@@ -51,7 +55,6 @@
     <mapping directory="$PROJECT_DIR$/gitapper" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gitbatch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github2mr" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/GitVersion" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/has" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/inplace" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/iterpath" vcs="Git" />
@@ -67,7 +70,6 @@
     <mapping directory="$PROJECT_DIR$/pipm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prefect" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/prefsniff" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/PyGithub" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python-decouple" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pyversion-info" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/qypi" vcs="Git" />
@@ -79,14 +81,12 @@
     <mapping directory="$PROJECT_DIR$/semver-tool" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/serverless/examples.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shallow-backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sphinx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/topgrade" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/upclean" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vivid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/watchexec" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wfh" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zero.sh" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/git-extras" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ghapi.git" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/apt-dater" vcs="Git" />
   </component>
 </project>
