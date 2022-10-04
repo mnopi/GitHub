@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
-  <component name="Go" enabled="true" />
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/apt-dater" />
@@ -65,11 +64,13 @@
       <excludeFolder url="file://$MODULE_DIR$/cloudflare" />
       <excludeFolder url="file://$MODULE_DIR$/nx" />
       <excludeFolder url="file://$MODULE_DIR$/serverless" />
-      <excludeFolder url="file://$MODULE_DIR$/sphinx" />
       <excludeFolder url="file://$MODULE_DIR$/upclean" />
       <excludeFolder url="file://$MODULE_DIR$/fzf-scripts" />
       <excludeFolder url="file://$MODULE_DIR$/cleanmymac" />
+      <excludeFolder url="file://$MODULE_DIR$/SimpleBLE" />
+      <excludeFolder url="file://$MODULE_DIR$/bindep" />
     </content>
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

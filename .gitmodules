@@ -251,3 +251,10 @@
 	branch = main
 	fetchRecurseSubmodules = true
 	update = merge
+[submodule "bindep"]
+	path = bindep
+	url = https://opendev.org/opendev/bindep.git
+	branch = master
+[submodules "bindep"]
+	fetchRecurseSubmodules = true
+	update = merge
