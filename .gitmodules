@@ -115,9 +115,6 @@
 [submodule "prefsniff"]
 	path = prefsniff
 	url = https://github.com/zcutlip/prefsniff
-[submodule "PyGithub"]
-	path = PyGithub
-	url = https://github.com/jwodder/PyGithub
 [submodule "python-decouple"]
 	path = python-decouple
 	url = https://github.com/henriquebastos/python-decouple
